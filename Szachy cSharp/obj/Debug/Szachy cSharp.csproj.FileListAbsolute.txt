@@ -1,0 +1,9 @@
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Debug\Szachy cSharp.exe.config
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Debug\Szachy cSharp.exe
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Debug\Szachy cSharp.pdb
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Debug\Szachy_cSharp.Form1.resources
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Debug\Szachy_cSharp.Properties.Resources.resources
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Debug\Szachy cSharp.csproj.GenerateResource.cache
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Debug\Szachy cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Debug\Szachy cSharp.exe
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Debug\Szachy cSharp.pdb

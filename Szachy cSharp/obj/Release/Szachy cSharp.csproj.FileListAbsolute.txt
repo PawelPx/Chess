@@ -1,0 +1,20 @@
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Release\Szachy cSharp.exe.config
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Release\Szachy cSharp.exe
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Release\Szachy cSharp.pdb
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.csprojResolveAssemblyReference.cache
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy_cSharp.Form1.resources
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy_cSharp.Properties.Resources.resources
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.csproj.GenerateResource.cache
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.exe
+C:\Users\Gosia\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.pdb
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Release\Szachy cSharp.exe.config
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Release\Szachy cSharp.exe
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\bin\Release\Szachy cSharp.pdb
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.csprojAssemblyReference.cache
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy_cSharp.Form1.resources
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy_cSharp.Properties.Resources.resources
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.csproj.GenerateResource.cache
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.exe
+C:\Users\Pawel\Documents\Studia\Semestr 2\Programowanie - projekt\Szachy C#\Szachy cSharp\Szachy cSharp\obj\Release\Szachy cSharp.pdb
